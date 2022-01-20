@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kasyful
-- 👀 I’m interested in Machine Learning, Neural Network, AI, Data Management
-- 🌱 I’m currently learning Machine Learning and Neural Network application in Earthquake Prediction
+- 👀 Call me KD
 
 <!---
 kasyful/kasyful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

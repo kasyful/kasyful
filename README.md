@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @kasyful
-- 👀 Thank you
+- 👋 Hi, Hello, Hola, Bonjour, Ni Hao, Guten Tag 👋
+
+## 💬 a bit of myself?
+
+
+## 📚 Interest
+* Geoscience
+* Data science
+* Machine learning
+* Digital transformation
+
+
+💻 50% working for money, 50% learning for myself 💻
 
 <!---
 kasyful/kasyful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

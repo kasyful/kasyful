@@ -1,6 +1,7 @@
 - 👋 Hi, Hello, Hola, Bonjour, Ni Hao, Guten Tag 👋
 
 ## 💬 a bit of myself?
+Geoscientist that highly interested in Data Science.
 
 
 ## 📚 Interest

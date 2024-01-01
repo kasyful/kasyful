@@ -1,4 +1,4 @@
-- 👋 Hi, Hello, Hola, Bonjour, Ni Hao, Guten Tag 👋
+- 👋 Hi, Hello, Hola, Bonjour, Ni Hao 👋
 
 ## 💬 a bit of myself?
 Geoscientist that highly interested in Data Science.

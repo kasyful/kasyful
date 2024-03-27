@@ -1,7 +1,7 @@
-- 👋 Hi, Hello, Hola, Bonjour, Ni Hao 👋
+- 👋  👋
 
 ## 💬 a bit of myself?
-Geoscientist that highly interested in Data Science.
+Geoscientist want to be Data Geoscientist?.
 
 
 ## 📚 Interest
